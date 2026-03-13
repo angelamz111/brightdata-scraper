@@ -1,0 +1,10 @@
+name: Run Bright Data Scraper
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello, Actions!"
