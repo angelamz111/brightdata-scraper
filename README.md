@@ -1,1 +1,0 @@
-# brightdata-scraper
